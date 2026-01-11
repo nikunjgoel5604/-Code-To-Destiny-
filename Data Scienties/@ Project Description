@@ -227,7 +227,6 @@ Final Report + Presentation
 ---
 
 🧰 Tools We Will Use
-
 | Category      | Tools                               |
 | ------------- | ----------------------------------- |
 | Programming   | Python, Pandas, NumPy, Scikit-Learn |
@@ -238,7 +237,6 @@ Final Report + Presentation
 | Time Series   | Statsmodels, Prophet                |
 | Deployment    | Streamlit, Flask                    |
 | Versioning    | Git & GitHub                        |
-
 ---
 
 🧭 Learning Style (Locked)
