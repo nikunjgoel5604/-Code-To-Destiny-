@@ -11,8 +11,8 @@ Used in almost every phase.
 Contains:
          Order ID, Order Date, Ship Date
          Customer ID, Segment, Region
- Product Category, Sub-category
- Sales, Quantity, Discount, Profit
+         Product Category, Sub-category
+         Sales, Quantity, Discount, Profit
  City, State, Country
 
 🔹 Supporting Dataset 1 (For NLP)
