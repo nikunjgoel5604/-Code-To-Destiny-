@@ -13,7 +13,7 @@ Contains:
          Customer ID, Segment, Region
          Product Category, Sub-category
          Sales, Quantity, Discount, Profit
- City, State, Country
+         City, State, Country
 
 🔹 Supporting Dataset 1 (For NLP)
 
