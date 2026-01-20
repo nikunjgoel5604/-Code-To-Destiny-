@@ -18,7 +18,7 @@ Contains:
 🔹 Supporting Dataset 1 (For NLP)
 
 Customer Reviews Dataset:
- Review Text
+                        Review Text
  Rating
  Product ID
  Sentiment Label (or created by us)
