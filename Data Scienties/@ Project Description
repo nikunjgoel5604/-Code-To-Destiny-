@@ -21,7 +21,7 @@ Customer Reviews Dataset:
                         Review Text
                         Rating
                         Product ID
- Sentiment Label (or created by us)
+                        Sentiment Label (or created by us)
 
 🔹 Supporting Dataset 2 (For Time Series)
 
