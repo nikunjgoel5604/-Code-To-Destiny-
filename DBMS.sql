@@ -28,4 +28,10 @@ course varchar(255) );
  (002,"kartik",50000),
  (003,"Ashita",80000);
  select * from employess;
- describe employess;
+ describe employess; # We use DESCRIBE to ask the DBMS about the structure of a table, not its data. SELECT = data.  DESCRIBE = structure (schema)
+ select * from employess where salary = 75000; # We use WHERE to filter rows. Without WHERE → SQL gives ALL data. With WHERE → SQL gives ONLY the data we want
+SELECT emp_name, salary FROM  employess;
+
+
+
+
